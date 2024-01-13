@@ -1,0 +1,59 @@
+
+div {
+  /* Change the background color to light blue */
+  background-color:skyblue;
+  /* Change the width to 80% of the parent element */
+  width: 10%;
+  /* Center the element horizontally */
+  margin: 0 auto;
+}
+
+/* Select elements with the class "heading" */
+.heading {
+  /* Change the font size to 36px */
+  font-size: 36px;
+  /* Change the font weight to bold */
+  font-weight: bold;
+  /* Change the text color to white */
+  color: white;
+  /* Change the text alignment to center */
+  text-align: center;
+  padding: 5%;
+}
+
+/* Select elements with the id "loginButton" */
+#loginButton {
+  /* Change the display to inline-block */
+  display: inline-block;
+  /* Change the padding to 10px */
+  padding: 10px;
+  /* Change the border to 2px solid white */
+  border: 2px solid white;
+  /* Change the border radius to 5px */
+  border-radius: 30px;
+  /* Change the text color to white */
+  color: white;
+  /* Change the text decoration to none */
+  text-decoration: none;
+}
+
+/* Select <a> elements inside <div> elements */
+div a {
+  /* Change the display to inline-block */
+  display: inline-block;
+  /* Change the padding to 10px */
+  padding: 10px;
+  /* Change the border to 2px solid white */
+  border: 2px solid white;
+  /* Change the border radius to 5px */
+  border-radius: 5px;
+  /* Change the text color to white */
+  color: white;
+  /* Change the text decoration to none */
+  text-decoration: none;
+}
+body{
+	background-color:grey;
+}
+
+
